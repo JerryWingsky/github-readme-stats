@@ -841,6 +841,7 @@ const wakatimeCardLocales = {
   },
   "wakatimecard.lastyear": {
     en: "last year",
+    en: "Last Year",
     ar: "العام الماضي",
     az: "Ötən il",
     ca: "L'any passat",
